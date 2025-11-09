@@ -26,12 +26,12 @@ Follow the steps below to successfully implement the scraper:
 
 2. Import the scraper version of your choice.
 
-3. For **Scraper v1**, you only need the CoinMarketCap API key from https://pro.coinmarketcap.com/signup/ and  replace API_CODE_GOES_HERE with it.
+3. For **Scraper v1**, you only need the [CoinMarketCap API Key](https://pro.coinmarketcap.com/signup/) and  replace API_CODE_GOES_HERE with it.
 
 4. For **Scraper v2**, get API keys from the following platforms and replace them with "your_cmc_api_key_here," "your_lcw_api_key_here," and "your_cr_api_key_here" in the script.
- - https://pro.coinmarketcap.com/signup/
- - https://www.livecoinwatch.com/tools/api
- - https://coinranking.com/api
+ - [CoinMarketCap API Page](https://pro.coinmarketcap.com/signup/)
+ - [LiveCoin(Watch API Page](https://www.livecoinwatch.com/tools/api)
+ - [Coin Ranking API Page](https://coinranking.com/api)
 
 5. Now, run the script; details will emerge during the run, and after completion, it will save the results in a CSV file and a very responsive HTML file in the **Download** folder of your device.
 
