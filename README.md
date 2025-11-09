@@ -1,20 +1,36 @@
-# cex-spot-volumed-tokens
-This python script lets you scrap tokens from CoinGecko and CoinMarketCap whose spot trading volume flipped their marketcaps in the last 24 hours or volume is 70% of the marketcap.
+# Spot Volume Crypto Tracker
 
-If you known your way around Python, then you can easily customize it to meet your prefered criteria be it 4hrs, 6hrs, 12 or 24hrs.
+This free Spot Volume Crypto Tracker script lets you scrape high spot volume crypto tokens from CoinGecko, CoinMarketCap, LiveCoinWatch, and CoinRanking, whose 24-hour trading volume flipped their market cap or is greater than 75% of their market cap. And large caps' volume is >= 50% of their market cap. 
 
-# Script-Usage-Guide
+**It is tweakable**; if you know your way around Python, HTML, and CSS, then you can easily customize it to meet your preferred criteria, be it 4 hrs, 6 hrs, 12 hrs, or 24 hrs.
 
-To successfully implement the scrapper, you need to follow below method or whatever method suits you:
+# Demo
 
-i > Install Pydroid3 and Install "Requets" library in PIP section
+![Demo Screenshot] ()
 
-ii > Import your scrapper.py into Pydroid3
+# Features
 
-iii > Get free CoinMarketCap API KEY here 👉 https://pro.coinmarketcap.com/faq and replace API_CODE_GOES_HERE with itm
+- No complex work required
+- Fast execution
+- Clear summary during execution
+- Cross verification for data efficiency
+- High verification count = high efficiency
+- Tweakable
 
-iv > Now, run your script, it will be later saved in CSV file at the "DOWNLOAD" folder of your device.
+# Step-by-Step Installation Guide
 
-v > You can view it using CSV Viewer App and Export it to PDF or whatever file extension.
+To successfully implement the scraper, you need to follow the below method or whatever method suits you:
 
-# Version 2.0 Change-log
+1. Install the Pydroid3 app and install the "requests" library in the PIP section.
+
+2. Import the scraper version of your choice.
+
+3. 
+
+iii > Get a free CoinMarketCap API KEY here 👉 https://pro.coinmarketcap.com/faq and replace API_CODE_GOES_HERE with it.
+
+iv. Now, run your script; it will be later saved in a CSV file in the "DOWNLOAD" folder of your device.
+
+v > You can view it using the CSV Viewer app and export it to PDF or whatever file extension.
+
+# Version 2.0 Change Log
