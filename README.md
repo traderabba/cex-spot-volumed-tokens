@@ -16,3 +16,5 @@ iii > Get free CoinMarketCap API KEY here 👉 https://pro.coinmarketcap.com/faq
 iv > Now, run your script, it will be later saved in CSV file at the "DOWNLOAD" folder of your device.
 
 v > You can view it using CSV Viewer App and Export it to PDF or whatever file extension.
+
+# Version 2.0 Change-log
